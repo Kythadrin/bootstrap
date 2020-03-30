@@ -1,0 +1,185 @@
+.bg-black{
+    background-color: black;
+}
+
+.figure-img-w-250px{
+    width: 250px;
+}
+
+.mb-100{
+    margin-bottom: 100px;
+}
+
+.mb-200{
+    margin-bottom: 200px;
+}
+
+.m-25{
+    margin: 25px;
+}
+
+.imageWiki{
+    float: left;
+    width: 250px;
+}
+
+iframe{
+    margin: 25px;
+    border: 2px solid red;
+}
+
+header{
+    border-bottom: 2px solid red;
+}
+
+footer{
+    border-top: 2px solid red;
+}
+
+#googleMap{
+    width:50%;
+    height: 550px;
+    margin-left: 25%;
+    margin-top: 50px;
+    border: 3px solid red;
+}
+
+/*a{*/
+/*    color: cadetblue;*/
+/*}*/
+
+/*.header{*/
+/*    position: fixed;*/
+/*    top: 0;*/
+/*    width: 100%;*/
+/*    margin-top: -10px;*/
+/*    padding-top: 40px;*/
+/*    padding-bottom: 60px;*/
+/*    background-color: black;*/
+/*    border-bottom: 2px solid red;*/
+/*}*/
+
+/*.sticky {*/
+/*    position: fixed;*/
+/*    top: 0;*/
+/*    width: 100%*/
+/*}*/
+
+/*.sticky + .mainBlock{*/
+/*    padding-top: 102px;*/
+/*}*/
+
+/*.buttons{*/
+/*    text-align: center;*/
+/*}*/
+
+/*.mainBlock{*/
+/*    margin-top: 50px;*/
+/*    margin-right: 50px;*/
+/*    margin-left: 50px;*/
+/*    text-align: center;*/
+/*    padding-bottom: 150px;*/
+/*    padding-top: 102px;*/
+/*}*/
+
+/*.imagePlanet{*/
+/*    position: center;*/
+/*    width: 256px;*/
+/*    height: 256px;*/
+/*    margin: 30px;*/
+/*}*/
+
+
+
+/*.gallery{*/
+/*    width: 75%;*/
+/*    margin-left: 15%;*/
+/*    min-height: 665px;*/
+/*    padding: 10px;*/
+/*}*/
+
+/*.mainBlock iframe{*/
+/*    margin: 60px;*/
+/*    border: 2px solid red;*/
+/*}*/
+
+/*.mainBlock input{*/
+/*    margin-bottom: 20px;*/
+/*}*/
+
+/*.mainBlock div{*/
+/*    margin-top: 20px;*/
+/*}*/
+
+/*.gallery img{*/
+/*    transition: 1s;*/
+/*    padding: 15px;*/
+/*    width: 200px;*/
+/*}*/
+
+/*.gallery img:hover{*/
+/*    filter: grayscale(100%);*/
+/*    transform: scale(1.1);*/
+/*}*/
+
+/*.galleries{*/
+/*    margin-top: 10%;*/
+/*}*/
+
+/*.galleries div{*/
+/*    margin-bottom: 20px;*/
+/*}*/
+
+/*.galleries div:hover{*/
+/*    transform: scale(1.1);*/
+/*}*/
+
+
+
+/*.wikiContent{*/
+/*    text-align: justify;*/
+/*    margin-left: 20%;*/
+/*    margin-right: 20%;*/
+/*}*/
+
+/*figure{*/
+/*    display: inline-block;*/
+/*}*/
+
+/*.footer{*/
+/*    position: fixed;*/
+/*    bottom: 0;*/
+/*    width: 100%;*/
+/*    color: white;*/
+/*    text-align: center;*/
+/*    background-color: black;*/
+/*    border-top: 2px solid red;*/
+/*}*/
+
+/*.headerButton{*/
+/*    box-shadow:inset 0 1px 3px 0 #91b8b3;*/
+/*    background: #878c8b linear-gradient(to bottom, #878c8b 5%, #232424 100%);*/
+/*    border-radius: 5px;*/
+/*    border: 1px solid #566963;*/
+/*    display: inline-block;*/
+/*    cursor: pointer;*/
+/*    color: #ffffff;*/
+/*    font-family: Arial, sans-serif;*/
+/*    font-size: 15px;*/
+/*    font-weight: bold;*/
+/*    padding: 11px 15px;*/
+/*    text-decoration: none;*/
+/*    text-shadow: 0 -1px 0 #181a1a;*/
+/*    margin-right: 10px;*/
+/*    margin-left: 10px;*/
+/*}*/
+
+/*.headerButton:hover{*/
+/*    filter: alpha(100%);*/
+/*    transform: scale(1.1);*/
+/*}*/
+
+/*.headerButton:active{*/
+/*    position: relative;*/
+/*    top: 1px;*/
+/*}*/
